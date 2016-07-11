@@ -13,6 +13,7 @@ Wapuu is licensed under GNU General Public License v2 or later. It's same as Wor
 Wapuu's copyright is reserved by Kazuko Kaneuchi.
 
 ------
-[Tazlog](blog.466548.org)
+[Twitter](https://twitter.com/466548)  
+[Tazlog](blog.466548.org)  
 [わぷーアーカイブ](http://jawordpressorg.github.io/wapuu/)
 ------
